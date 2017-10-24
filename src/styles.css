@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Muli:200,200i,400,500|Titillium+Web:200,200i,300,400');
+
+.header{
+    font-family:'Titillium Web',sans-serif;
+    font-size:42px;
+    font-weight: 300;
+    background-color:#3f88c5;
+    text-align: left;
+
+    color:white;
+}
+.title{
+    padding-top: 8px;
+}
+.logo{
+    height:80px;
+    float:left;
+    margin-top:6px;
+}
+
+.mainpanel{
+    background-color:#B5FFE9;
+}
