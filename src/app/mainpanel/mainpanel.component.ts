@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MainpanelComponent implements OnInit {
 
+  displayMonths = 2;
+  navigation = 'select';
   constructor() { }
 
   ngOnInit() {
