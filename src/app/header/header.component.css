@@ -1,6 +1,16 @@
 .menubar{
-    height:30px;
+    height:10%;
     background-color:white;
     width: 100%;
 }
-p{margin-left:30px;}
+p{
+    margin-left:20%;
+    margin-bottom: auto;
+    margin-top:auto;
+}
+h4{
+    float:right;
+    margin-left:20%;
+    margin-bottom: auto;
+    margin-top:auto;
+}

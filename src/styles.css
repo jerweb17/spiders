@@ -3,7 +3,7 @@
 
 .header{
     font-family:'Titillium Web',sans-serif;
-    font-size:42px;
+    font-size:34px;
     font-weight: 300;
     background-color:#3f88c5;
     text-align: left;
@@ -11,7 +11,7 @@
     color:white;
 }
 .title{
-    padding-top: 8px;
+    /* padding-top: 8px; */
 }
 .logo{
     height:80px;

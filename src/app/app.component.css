@@ -1,7 +1,7 @@
 .homebase{
     display:grid;
     grid-template-columns:13% 1fr;
-    grid-template-rows:10% 9fr;
+    grid-template-rows:60px 9fr 10%;
     height:100vh;
 }
 
@@ -9,7 +9,7 @@
     grid-column-start: 1;
     grid-column-end:5;
     grid-row-start: 1;
-    grid-row-end: 1;
+    grid-row-end: 2;
 }
 
 .side {
@@ -23,6 +23,6 @@
     grid-column-start:2;
     grid-column-end: 3;
     grid-row-start:2;
-    grid-row-end:2;
+    grid-row-end:3;
 
 }

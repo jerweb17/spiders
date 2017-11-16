@@ -7,7 +7,8 @@ import { NgbModule} from '@ng-bootstrap/ng-bootstrap';
   styleUrls: ['./welcome.component.css']
 })
 export class WelcomeComponent implements OnInit {
-
+  displayMonths = 2;
+  navigation = 'select';
   constructor() { }
 
   ngOnInit() {
